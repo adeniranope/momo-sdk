@@ -1,2 +1,4 @@
 # momo-sdk
-Mobile Money SDKs
+This project contains all known Mobile Money platform SDKs. For example; MTN
+
+
